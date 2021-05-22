@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+}
+.page-wrapper{
+    width: 99.5%;
+    padding-bottom: 3%;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 0.25%;
+}
+.red-box{
+    width: 93%;
+    padding: 1%;
+    border: 1px solid red;
+    margin: auto;
+    margin-top:2%;
+}
+.box{
+    margin: auto;
+    width: 98%;
+    border: 1px solid rgb(12, 231, 147);
+}
+.box2{
+    margin-top: 2%;
+    border: 1px solid hotpink;
+}
+.inner-box{
+    background-color: greenyellow;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 3%;
+}
+.long-box{
+    padding-bottom: 20%;
+}
